@@ -1,0 +1,108 @@
+object FormMain: TFormMain
+  Left = 350
+  Height = 460
+  Top = 250
+  Width = 620
+  BorderIcons = [biSystemMenu, biMinimize]
+  BorderStyle = bsSingle
+  Caption = 'Vectorscope'
+  ClientHeight = 460
+  ClientWidth = 620
+  Color = 15790320
+  DesignTimePPI = 120
+  Font.Height = -15
+  LCLVersion = '4.6.0.0'
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  object PanelControl: TPanel
+    Left = 0
+    Height = 460
+    Top = 0
+    Width = 170
+    Align = alLeft
+    BevelOuter = bvNone
+    ClientHeight = 460
+    ClientWidth = 170
+    ParentBackground = False
+    TabOrder = 0
+    object btnSelectROI: TButton
+      Left = 15
+      Height = 35
+      Top = 16
+      Width = 140
+      Caption = 'Select Region'
+      TabOrder = 0
+      OnClick = btnSelectROIClick
+    end
+    object btnShowROI: TButton
+      Left = 15
+      Height = 35
+      Top = 56
+      Width = 140
+      Caption = 'Hide Frame'
+      TabOrder = 1
+      OnClick = btnShowROIClick
+    end
+    object btnLive: TButton
+      Left = 15
+      Height = 35
+      Top = 96
+      Width = 140
+      Caption = 'Start (Live)'
+      TabOrder = 2
+      OnClick = btnLiveClick
+    end
+    object chkColor: TCheckBox
+      Left = 15
+      Height = 24
+      Top = 144
+      Width = 90
+      Caption = 'Color dots'
+      TabOrder = 3
+      OnChange = chkColorChange
+    end
+    object chkSkin: TCheckBox
+      Left = 15
+      Height = 24
+      Top = 174
+      Width = 110
+      Caption = 'Skin tone line'
+      TabOrder = 4
+      OnChange = chkColorChange
+    end
+    object chkTopmost: TCheckBox
+      Left = 15
+      Height = 24
+      Top = 204
+      Width = 115
+      Caption = 'Always on top'
+      TabOrder = 5
+      OnChange = chkTopmostChange
+    end
+    object lblInfo: TLabel
+      Left = 15
+      Height = 20
+      Top = 238
+      Width = 38
+      Caption = 'FPS: 0'
+      Font.Color = clGray
+      ParentColor = False
+      ParentFont = False
+    end
+  end
+  object PaintBoxScope: TPaintBox
+    Left = 170
+    Height = 460
+    Top = 0
+    Width = 450
+    Align = alClient
+    OnPaint = PaintBoxScopePaint
+  end
+  object TimerLive: TTimer
+    Enabled = False
+    Interval = 33
+    OnTimer = TimerLiveTimer
+    Left = 70
+    Top = 350
+  end
+end

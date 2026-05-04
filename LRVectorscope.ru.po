@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: tformmain.caption
+msgid "Vectorscope"
+msgstr "Векторскоп"
+
+#: tformmain.btnselectroi.caption
+msgid "Select Region"
+msgstr "Выбрать область"
+
+#: tformmain.btnshowroi.caption
+msgid "Hide frame"
+msgstr "Скрыть рамку"
+
+#: tformmain.btnlive.caption
+msgid "Start (Live)"
+msgstr "Старт (Live)"
+
+#: tformmain.chkcolor.caption
+msgid "Color dots"
+msgstr "Цветные точки"
+
+#: tformmain.chkskin.caption
+msgid "Skin tone line"
+msgstr "Только кожа"
+
+#: tformmain.chktopmost.caption
+msgid "Always on top"
+msgstr "Поверх всех окон"
+
+#: tformmain.lblinfo.caption
+msgid "FPS: 0"
+msgstr "FPS: 0"
+
+#: umain.rshideframe
+msgid "Hide frame"
+msgstr "Скрыть рамку"
+
+#: umain.rsshowframe
+msgid "Show frame"
+msgstr "Показать рамку"
+
+#: umain.rsstartlive
+msgid "Start (Live)"
+msgstr "Старт (Live)"
+
+#: umain.rsstoplive
+msgid "Stop (Live)"
+msgstr "Стоп (Live)"
+
+#: umain.rsfps
+msgid "FPS: "
+msgstr "FPS: "

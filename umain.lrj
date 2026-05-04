@@ -1,0 +1,10 @@
+{"version":1,"strings":[
+{"hash":113589461,"name":"tformmain.caption","sourcebytes":[86,101,99,116,111,114,115,99,111,112,101],"value":"Vectorscope"},
+{"hash":206136942,"name":"tformmain.btnselectroi.caption","sourcebytes":[83,101,108,101,99,116,32,82,101,103,105,111,110],"value":"Select Region"},
+{"hash":122251669,"name":"tformmain.btnshowroi.caption","sourcebytes":[72,105,100,101,32,70,114,97,109,101],"value":"Hide Frame"},
+{"hash":125404441,"name":"tformmain.btnlive.caption","sourcebytes":[83,116,97,114,116,32,40,76,105,118,101,41],"value":"Start (Live)"},
+{"hash":104992899,"name":"tformmain.chkcolor.caption","sourcebytes":[67,111,108,111,114,32,100,111,116,115],"value":"Color dots"},
+{"hash":108506949,"name":"tformmain.chkskin.caption","sourcebytes":[83,107,105,110,32,116,111,110,101,32,108,105,110,101],"value":"Skin tone line"},
+{"hash":259910512,"name":"tformmain.chktopmost.caption","sourcebytes":[65,108,119,97,121,115,32,111,110,32,116,111,112],"value":"Always on top"},
+{"hash":78998576,"name":"tformmain.lblinfo.caption","sourcebytes":[70,80,83,58,32,48],"value":"FPS: 0"}
+]}

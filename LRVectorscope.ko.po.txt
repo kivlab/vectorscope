@@ -1,0 +1,56 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tformmain.btnlive.caption
+msgctxt "tformmain.btnlive.caption"
+msgid "Start (Live)"
+msgstr "시작 (라이브)"
+
+#: tformmain.btnselectroi.caption
+msgid "Select Region"
+msgstr "영역 선택"
+
+#: tformmain.btnshowroi.caption
+msgid "Hide Frame"
+msgstr "프레임 숨기기"
+
+#: tformmain.caption
+msgid "Vectorscope"
+msgstr "벡터스코프"
+
+#: tformmain.chkcolor.caption
+msgid "Color dots"
+msgstr "색상 점"
+
+#: tformmain.chkskin.caption
+msgid "Skin tone line"
+msgstr "피부톤 선"
+
+#: tformmain.chktopmost.caption
+msgid "Always on top"
+msgstr "항상 위"
+
+#: tformmain.lblinfo.caption
+msgid "FPS: 0"
+msgstr "FPS: 0"
+
+#: umain.rsfps
+msgid "FPS: "
+msgstr "FPS: "
+
+#: umain.rshideframe
+msgid "Hide frame"
+msgstr "프레임 숨기기"
+
+#: umain.rsshowframe
+msgid "Show frame"
+msgstr "프레임 표시"
+
+#: umain.rsstartlive
+msgctxt "umain.rsstartlive"
+msgid "Start (Live)"
+msgstr "시작 (라이브)"
+
+#: umain.rsstoplive
+msgid "Stop (Live)"
+msgstr "중지 (라이브)"

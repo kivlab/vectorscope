@@ -1,0 +1,57 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tformmain.btnlive.caption
+msgctxt "tformmain.btnlive.caption"
+msgid "Start (Live)"
+msgstr ""
+
+#: tformmain.btnselectroi.caption
+msgid "Select Region"
+msgstr ""
+
+#: tformmain.btnshowroi.caption
+msgid "Hide Frame"
+msgstr ""
+
+#: tformmain.caption
+msgid "Vectorscope"
+msgstr ""
+
+#: tformmain.chkcolor.caption
+msgid "Color dots"
+msgstr ""
+
+#: tformmain.chkskin.caption
+msgid "Skin tone line"
+msgstr ""
+
+#: tformmain.chktopmost.caption
+msgid "Always on top"
+msgstr ""
+
+#: tformmain.lblinfo.caption
+msgid "FPS: 0"
+msgstr ""
+
+#: umain.rsfps
+msgid "FPS: "
+msgstr ""
+
+#: umain.rshideframe
+msgid "Hide frame"
+msgstr ""
+
+#: umain.rsshowframe
+msgid "Show frame"
+msgstr ""
+
+#: umain.rsstartlive
+msgctxt "umain.rsstartlive"
+msgid "Start (Live)"
+msgstr ""
+
+#: umain.rsstoplive
+msgid "Stop (Live)"
+msgstr ""
+

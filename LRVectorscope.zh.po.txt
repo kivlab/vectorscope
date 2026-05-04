@@ -1,0 +1,56 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tformmain.btnlive.caption
+msgctxt "tformmain.btnlive.caption"
+msgid "Start (Live)"
+msgstr "开始 (实时)"
+
+#: tformmain.btnselectroi.caption
+msgid "Select Region"
+msgstr "选择区域"
+
+#: tformmain.btnshowroi.caption
+msgid "Hide Frame"
+msgstr "隐藏边框"
+
+#: tformmain.caption
+msgid "Vectorscope"
+msgstr "矢量示波器"
+
+#: tformmain.chkcolor.caption
+msgid "Color dots"
+msgstr "彩色点"
+
+#: tformmain.chkskin.caption
+msgid "Skin tone line"
+msgstr "肤色线"
+
+#: tformmain.chktopmost.caption
+msgid "Always on top"
+msgstr "总在最前"
+
+#: tformmain.lblinfo.caption
+msgid "FPS: 0"
+msgstr "FPS: 0"
+
+#: umain.rsfps
+msgid "FPS: "
+msgstr "FPS: "
+
+#: umain.rshideframe
+msgid "Hide frame"
+msgstr "隐藏边框"
+
+#: umain.rsshowframe
+msgid "Show frame"
+msgstr "显示边框"
+
+#: umain.rsstartlive
+msgctxt "umain.rsstartlive"
+msgid "Start (Live)"
+msgstr "开始 (实时)"
+
+#: umain.rsstoplive
+msgid "Stop (Live)"
+msgstr "停止 (实时)"
